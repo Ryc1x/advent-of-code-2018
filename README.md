@@ -13,6 +13,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Solutions
 [Day 1: Chronal Calibration](day1-chronal-calibration/)
+[Day 2: Inventory Management System](day2-inventory-management-system/)
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
