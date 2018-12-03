@@ -1,5 +1,6 @@
 # Advent of Code 2018
 This is a repository of my solutions to Advent of Code 2018.
+
 The codes are in Python 3.6 version.
 
 ## Story Background
@@ -12,8 +13,9 @@ The codes are in Python 3.6 version.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 ## Solutions
-[Day 1: Chronal Calibration](day1-chronal-calibration/)
-[Day 2: Inventory Management System](day2-inventory-management-system/)
+[Day 1: Chronal Calibration](day1-chronal-calibration/) ⭐⭐
+[Day 2: Inventory Management System](day2-inventory-management-system/) ⭐⭐
+[Day 3: No Matter How You Slice It](day3-no-matter-how-you-slice-it/) ⭐⭐
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
