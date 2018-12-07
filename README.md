@@ -16,6 +16,9 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [Day 1: Chronal Calibration](day1-chronal-calibration/) ⭐⭐
 [Day 2: Inventory Management System](day2-inventory-management-system/) ⭐⭐
 [Day 3: No Matter How You Slice It](day3-no-matter-how-you-slice-it/) ⭐⭐
+[Day 4: Repose Record](day4-repose-record/) ⭐⭐
+[Day 5: Alchemical Reduction](day5-alchemical-reduction/) ⭐⭐
+[Day 5: Chronal Coordinates](day6-chronal-coordinates/) ⭐⭐
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
