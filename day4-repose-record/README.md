@@ -57,9 +57,7 @@ In the example above, Guard #10 spent the most minutes asleep, a total of 50 min
 
 While this example listed the entries in chronological order, your entries are in the order you found them. You'll need to organize them before they can be analyzed.
 
-*What is the ID of the guard you chose multiplied by the minute you chose?*(In the above example, the answer would be `10 * 24 = 240`.)
-
-Your puzzle answer was `109659`.
+*What is the ID of the guard you chose multiplied by the minute you chose?*(In the above example, the answer would be `10 * 24 = 240`.)*
 
 ## Part Two
 
@@ -67,4 +65,4 @@ Your puzzle answer was `109659`.
 
 In the example above, Guard #*99* spent minute *45* asleep more than any other guard or minute - three times in total. (In all other cases, any guard spent any minute asleep at most twice.)
 
-*What is the ID of the guard you chose multiplied by the minute you chose?*(In the above example, the answer would be `99 * 45 = 4455`.)
+*What is the ID of the guard you chose multiplied by the minute you chose?*(In the above example, the answer would be `99 * 45 = 4455`.)*

@@ -24,7 +24,7 @@ For example, if you see the following box IDs:
 
 Of these box IDs, four of them contain a letter which appears exactly twice, and three of them contain a letter which appears exactly three times. Multiplying these together produces a checksum of `4 * 3 = 12`.
 
-*What is the checksum* for your list of box IDs?
+*What is the checksum* for your list of box IDs?*
 
 ## Part Two
 
