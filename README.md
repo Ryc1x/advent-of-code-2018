@@ -25,6 +25,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [Day7: The Sum of Its Parts](day7-the-sum-of-its-parts/)     | ⭐⭐         |
 | [Day8: Memory Maneuver](day8-memory-maneuver/)               | ⭐⭐         |
 | [Day9: Marble Mania](day9-marble-mania/)                     | ⭐⭐         |
+| [Day10: The Stars Align](day10-the-stars-align/)             | ⭐⭐         |
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
