@@ -27,6 +27,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [Day9: Marble Mania](day9-marble-mania/)                     | ⭐⭐         |
 | [Day10: The Stars Align](day10-the-stars-align/)             | ⭐⭐         |
 | [Day11: Chronal Charge](day11-chronal-charge/)               | ⭐⭐         |
+| [Day12: Subterranean Sustainability](day12-subterranean-sustainability/) | ⭐⭐         |
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
