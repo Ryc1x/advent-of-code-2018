@@ -29,6 +29,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [Day11: Chronal Charge](day11-chronal-charge/)               | ⭐⭐         |
 | [Day12: Subterranean Sustainability](day12-subterranean-sustainability/) | ⭐⭐         |
 | [Day13: Mine Cart Madness](day13-mine-cart-madness/)         | ⭐⭐         |
+| [Day14: Chocolate Charts](day14-chocolate-charts/)           | ⭐⭐         |
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
