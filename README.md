@@ -32,6 +32,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [Day14: Chocolate Charts](day14-chocolate-charts/)           | ⭐⭐         |
 | [Day15: Beverage Bandits](day15-beverage-bandits/)           | ❌❌         |
 | [Day16: Chronal Classification](day16-chronal-classification/) | ⭐⭐         |
+| Day17: Reservoir Research                                    | ❌❌         |
+| [Day 18: Settlers of The North Pole](day18-settlers-of-the-north-pole/) | ⭐⭐         |
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
