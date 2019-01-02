@@ -30,10 +30,15 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [Day12: Subterranean Sustainability](day12-subterranean-sustainability/) | ⭐⭐         |
 | [Day13: Mine Cart Madness](day13-mine-cart-madness/)         | ⭐⭐         |
 | [Day14: Chocolate Charts](day14-chocolate-charts/)           | ⭐⭐         |
-| [Day15: Beverage Bandits](day15-beverage-bandits/)           | ❌❌         |
+|  Day15: Beverage Bandits            | ❌❌         |
 | [Day16: Chronal Classification](day16-chronal-classification/) | ⭐⭐         |
-| Day17: Reservoir Research                                    | ❌❌         |
+|  Day17: Reservoir Research                                   | ❌❌         |
 | [Day 18: Settlers of The North Pole](day18-settlers-of-the-north-pole/) | ⭐⭐         |
+| [Day 19: Go With The Flow](day19-go-with-the-flow/)          | ⭐⭐         |
+|  Day 20 - Day 24]                                            | ❌❌         |
+| [Day 25: Four Demensional Tour](day25-four-demensional-tour/)          | ⭐           |
+
+Total: 35⭐
 
 ## Link
 Link to Advent of Code: http://adventofcode.com/2018
